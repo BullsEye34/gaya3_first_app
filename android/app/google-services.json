@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200821725494",
+    "firebase_url": "https://notes-e3714.firebaseio.com",
+    "project_id": "notes-e3714",
+    "storage_bucket": "notes-e3714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200821725494:android:ad83dbb99a5bbef53efb97",
+        "android_client_info": {
+          "package_name": "gq.gayathri.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200821725494-20s055vjklhtgjvrq7igcpotc1ila113.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMN5YUqu2zQ4RCRBuybTSpJFlN49_7Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200821725494-20s055vjklhtgjvrq7igcpotc1ila113.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
